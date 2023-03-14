@@ -8,7 +8,7 @@
 
 ## Home Page
 
-![App Screenshot](https://github.com/HalilBatuhan/todoapp/blob/main/asset/1.png?raw=true width="200" height="400")
+<img src="https://github.com/favicon.ico" width="48">
 
 ## Add New Note
 
