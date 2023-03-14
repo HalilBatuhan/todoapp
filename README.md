@@ -8,7 +8,15 @@
 
 ## Home Page
 
-![App Screenshot](https://via.placeholder.com/468x300?text=App+Screenshot+Here)
+![App Screenshot](https://github.com/HalilBatuhan/todoapp/blob/main/asset/1.png?raw=true)
+
+## Add New Note
+
+![App Screenshot](https://github.com/HalilBatuhan/todoapp/blob/main/asset/2.png?raw=true)
+
+# Delete Note
+
+![App Screenshot](https://github.com/HalilBatuhan/todoapp/blob/main/asset/3.png?raw=true)
 
 
 ## Installation
