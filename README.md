@@ -8,7 +8,7 @@
 
 ## Home Page
 
-![App Screenshot](https://github.com/HalilBatuhan/todoapp/blob/main/asset/1.png?raw=true)
+![App Screenshot](https://github.com/HalilBatuhan/todoapp/blob/main/asset/1.png?raw=true width="200" height="400")
 
 ## Add New Note
 
