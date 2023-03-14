@@ -1,4 +1,0 @@
-#Tue Mar 14 18:17:17 TRT 2023
-base.0=/Users/halilbatuhankundakci/Documents/GitHub/todoapps/build/app/intermediates/dex/debug/mergeDexDebug/classes.dex
-path.0=classes.dex
-renamed.0=classes.dex
