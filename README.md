@@ -8,15 +8,15 @@
 
 ## Home Page
 
-<img src="https://github.com/HalilBatuhan/todoapp/blob/main/asset/3.png" width="350">
+<img src="https://github.com/HalilBatuhan/todoapp/blob/main/asset/1.png" width="350">
 
 ## Add New Note
 
-![App Screenshot](https://github.com/HalilBatuhan/todoapp/blob/main/asset/2.png?raw=true)
+<img src="https://github.com/HalilBatuhan/todoapp/blob/main/asset/2.png" width="350">
 
 # Delete Note
 
-![App Screenshot](https://github.com/HalilBatuhan/todoapp/blob/main/asset/3.png?raw=true)
+<img src="https://github.com/HalilBatuhan/todoapp/blob/main/asset/3.png" width="350">
 
 
 ## Installation
