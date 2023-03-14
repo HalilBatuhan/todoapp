@@ -8,7 +8,7 @@
 
 ## Home Page
 
-<img src="https://github.com/HalilBatuhan/todoapp/blob/main/asset/3.png" width="500">
+<img src="https://github.com/HalilBatuhan/todoapp/blob/main/asset/3.png" width="350">
 
 ## Add New Note
 
